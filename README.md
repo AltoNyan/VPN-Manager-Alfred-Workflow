@@ -12,3 +12,9 @@ More info: [https://www.alfredapp.com/help/workflows/](https://www.alfredapp.com
 
 ## Setup
 1. Use the keyword "**VPN**" and press "ENTER" to select connect or disconnect vpn.
+
+2. You should setup two variables to use this workflow. ("VPN_NAME", "SHARED_SECRET")
+
+
+## **WARNINIG:** You must choose "Default" on "Configulation" setting
+![Alt text](img/setting.jpg?raw=true "Setting")
